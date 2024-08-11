@@ -1,0 +1,15 @@
+C:\Users\INTERNET\source\Core8\Attack\bin\Debug\net8.0\Attack.exe
+C:\Users\INTERNET\source\Core8\Attack\bin\Debug\net8.0\Attack.deps.json
+C:\Users\INTERNET\source\Core8\Attack\bin\Debug\net8.0\Attack.runtimeconfig.json
+C:\Users\INTERNET\source\Core8\Attack\bin\Debug\net8.0\Attack.dll
+C:\Users\INTERNET\source\Core8\Attack\bin\Debug\net8.0\Attack.pdb
+C:\Users\INTERNET\source\Core8\Attack\obj\Debug\net8.0\Attack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTERNET\source\Core8\Attack\obj\Debug\net8.0\Attack.AssemblyInfoInputs.cache
+C:\Users\INTERNET\source\Core8\Attack\obj\Debug\net8.0\Attack.AssemblyInfo.cs
+C:\Users\INTERNET\source\Core8\Attack\obj\Debug\net8.0\Attack.csproj.CoreCompileInputs.cache
+C:\Users\INTERNET\source\Core8\Attack\obj\Debug\net8.0\Attack.sourcelink.json
+C:\Users\INTERNET\source\Core8\Attack\obj\Debug\net8.0\Attack.dll
+C:\Users\INTERNET\source\Core8\Attack\obj\Debug\net8.0\refint\Attack.dll
+C:\Users\INTERNET\source\Core8\Attack\obj\Debug\net8.0\Attack.pdb
+C:\Users\INTERNET\source\Core8\Attack\obj\Debug\net8.0\Attack.genruntimeconfig.cache
+C:\Users\INTERNET\source\Core8\Attack\obj\Debug\net8.0\ref\Attack.dll
